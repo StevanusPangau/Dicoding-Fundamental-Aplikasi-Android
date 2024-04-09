@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DicodingSubmissionAwalFundamentalAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.DicodingSubmissionAwalFundamentalAndroid" parent="Base.Theme.DicodingSubmissionAwalFundamentalAndroid" />
+
+    <style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item> <!-- Ukuran teks tab -->
+        <item name="android:textColor">@android:color/white</item> <!-- Warna teks tab -->
+        <item name="android:textStyle">bold</item> <!-- Gaya teks tab -->
+    </style>
+</resources>

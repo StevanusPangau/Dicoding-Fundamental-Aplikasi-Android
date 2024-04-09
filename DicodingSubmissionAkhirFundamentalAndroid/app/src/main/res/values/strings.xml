@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DicodingSubmissionAkhirFundamentalAndroid</string>
+
+    <string name="search_hint">Ingin cari siapa?</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="number_100">100</string>
+    <string name="imgprofileuser">imgProfileUser</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_followers_and_following">Fragment Followers and Following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="detail_user_activity_title">Detail User</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting_theme">Setting Theme</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+</resources>

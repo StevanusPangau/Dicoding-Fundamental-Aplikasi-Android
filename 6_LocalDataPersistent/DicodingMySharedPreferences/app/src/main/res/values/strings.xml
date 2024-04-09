@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DicodingMySharedPreferences</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">No Handphone</string>
+    <string name="age">Age</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="save">Simpan</string>
+    <string name="love_manchester_united">Suka manchester united?</string>
+    <string name="change">Ubah</string>
+    <string name="dummy_name">Tidak Ada</string>
+    <string name="dummy_email">Tidak Ada</string>
+    <string name="dummynumber">Tidak Ada</string>
+    <string name="dummyage">0</string>
+    <string name="dummyislove">Tidak</string>
+</resources>
